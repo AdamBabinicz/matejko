@@ -1,3 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://matejko.netlify.app/sitemap.xml
+Host: https://matejko.netlify.app
