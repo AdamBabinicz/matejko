@@ -93,6 +93,7 @@ const AboutPageStyles = styled.div`
     }
     .button {
       font-size: 1.8rem;
+      margin-bottom: 2rem;
     }
   }
 `;
