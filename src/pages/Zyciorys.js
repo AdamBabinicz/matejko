@@ -248,10 +248,10 @@ export default function Zyciorys() {
                   Odkąd nauczyłem się czytać, odkryłem jedną z&nbsp;
                   największych swoich pasji – historię. Moimi ulubionymi
                   książkami były opowieści historyczne – niemal na pamięć znałem
-                  całe ustępy ze Śpiewów historycznych Juliana Ursyna
+                  całe ustępy ze&nbsp;Śpiewów historycznych Juliana Ursyna
                   Niemcewicza. Jako dziecko potrafiłem też cytować różne
                   fragmenty z&nbsp;Don Kichota Cervantesa. Wiem, że&nbsp;dobór
-                  lektur może się wydawać dość dziwny, ale byłem nietypowym
+                  lektur może się wydawać dość dziwny, ale&nbsp;byłem nietypowym
                   dzieckiem – nad wiek poważnym, lubiącym samotność
                   i&nbsp;ciszę. Potrafiłem godzinami bawić się sam, przebierając
                   się i&nbsp;odgrywając różne scenki z&nbsp;dawnych dziejów.
