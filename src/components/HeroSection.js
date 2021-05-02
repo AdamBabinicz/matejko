@@ -161,10 +161,10 @@ export default function HeroSection() {
           <div className="hero__info">
             <PText>
               W 1873 r. otrzymał oficjalną propozycję objęcia stanowiska
-              dyrektora Akademii Sztuk Pięknych w Pradze. Odmowa Matejki stała
-              się impulsem do zaproponowania mu analogicznego stanowiska w
-              krakowskiej Szkole Sztuk Pięknych. Funkcję tę pełnił od 1873 r. do
-              końca życia.
+              dyrektora Akademii Sztuk Pięknych w&nbsp;Pradze. Odmowa Matejki
+              stała się impulsem do&nbsp;zaproponowania mu analogicznego
+              stanowiska w&nbsp;krakowskiej Szkole Sztuk Pięknych. Funkcję tę
+              pełnił od&nbsp;1873 r. do&nbsp;końca życia.
             </PText>
             <br />
             <PText>

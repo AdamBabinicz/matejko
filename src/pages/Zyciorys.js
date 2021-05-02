@@ -112,53 +112,58 @@ export default function Zyciorys() {
               <h2 className="about__heading">Malarz historyczny i religijny</h2>
               <div className="about__info">
                 <PText>
-                  Jan Alojzy Matejko (ur. 24 czerwca [a] 1838 w Krakowie, zm. 1
-                  listopada 1893 tamże) – polski malarz, twórca obrazów
-                  historycznych i batalistycznych, historiozof. Był autorem
-                  ponad trzystu obrazów olejnych oraz kilkuset rysunków i
-                  szkiców [1]. Jeden z najwybitniejszych polskich malarzy w
-                  historii [2]. W latach 1852–1858 studiował u Władysława
-                  Łuszczkiewicza i Wojciecha Stattlera w Szkole Sztuk Pięknych w
-                  Krakowie, której później był dyrektorem (od 1873). Jego
-                  uczniami byli m.in. Maurycy Gottlieb, Jacek Malczewski, Józef
-                  Mehoffer i Stanisław Wyspiański.
+                  Jan Alojzy Matejko (ur. 24 czerwca [a] 1838 w&nbsp;Krakowie,
+                  zm. 1&nbsp;listopada 1893 tamże) – polski malarz, twórca
+                  obrazów historycznych i&nbsp;batalistycznych, historiozof. Był
+                  autorem ponad trzystu obrazów olejnych oraz&nbsp;kilkuset
+                  rysunków i&nbsp;szkiców [1]. Jeden z&nbsp;najwybitniejszych
+                  polskich malarzy w&nbsp;historii [2]. W&nbsp;latach 1852–1858
+                  studiował u&nbsp;Władysława Łuszczkiewicza i&nbsp;Wojciecha
+                  Stattlera w&nbsp;Szkole Sztuk Pięknych w&nbsp;Krakowie, której
+                  później był dyrektorem (od 1873). Jego uczniami byli m.in.
+                  Maurycy Gottlieb, Jacek Malczewski, Józef Mehoffer
+                  i&nbsp;Stanisław Wyspiański.
                   <br /> <br />
                   Ojciec malarza, Franciszek Ksawery Matejko, właśc. František
-                  Xaver Matějka (Matieyka), był Czechem, urodzonym w Roudnicy
-                  koło Hradca Králové jako syn chłopski. Przybył do Galicji w
-                  charakterze guwernera i nauczyciela muzyki. Początkowo
-                  pracował u rodziny Wodzickich w Kościelnikach (dziś część
-                  Nowej Huty), a następnie przeniósł się do Krakowa, gdzie
-                  poślubił Joannę Karolinę Rossberg (1802–1845), wywodzącą się z
-                  polsko-niemieckiej rodziny zamożnych rymarzy. Franciszek był
-                  katolikiem, Joanna – protestantką. Matejkowie zamieszkali przy
-                  ulicy Floriańskiej w Krakowie.
+                  Xaver Matějka (Matieyka), był Czechem, urodzonym
+                  w&nbsp;Roudnicy koło Hradca Králové jako syn chłopski. Przybył
+                  do Galicji w&nbsp;charakterze guwernera i&nbsp;nauczyciela
+                  muzyki. Początkowo pracował u&nbsp;rodziny Wodzickich
+                  w&nbsp;Kościelnikach (dziś część Nowej Huty), a&nbsp;następnie
+                  przeniósł się do Krakowa, gdzie poślubił Joannę Karolinę
+                  Rossberg (1802–1845), wywodzącą się z&nbsp;polsko-niemieckiej
+                  rodziny zamożnych rymarzy. Franciszek był katolikiem, Joanna –
+                  protestantką. Matejkowie zamieszkali przy ulicy Floriańskiej
+                  w&nbsp;Krakowie.
                   <br />
                   <br />
-                  Jan Matejko był dziewiątym dzieckiem, z jedenastu, jakie mieli
-                  państwo Matejkowie (było wśród nich dziewięciu chłopców i dwie
-                  dziewczynki). Gdy Matejko miał siedem lat, zmarła jego matka;
-                  dziećmi zajęła się jej siostra. Śmierć matki niewątpliwie
-                  wywarła wpływ na osobowość przyszłego malarza. Jego
-                  dzieciństwo obfitowało w lęki i przykrości [3], nie zaznawał
-                  także raczej przesadnie starannej opieki (jego złamany nos nie
-                  zwrócił niczyjej uwagi i zrósł się krzywo) [4]. Ojciec nie
-                  okazywał dzieciom swoich uczuć, był surowy i pozbawiony
-                  akceptacji dla artystycznej pasji syna.
+                  Jan Matejko był dziewiątym dzieckiem, z&nbsp;jedenastu, jakie
+                  mieli państwo Matejkowie (było wśród nich dziewięciu chłopców
+                  i&nbsp;dwie dziewczynki). Gdy Matejko miał siedem lat, zmarła
+                  jego matka; dziećmi zajęła się jej siostra. Śmierć matki
+                  niewątpliwie wywarła wpływ na osobowość przyszłego malarza.
+                  Jego dzieciństwo obfitowało w&nbsp;lęki i&nbsp;przykrości [3],
+                  nie zaznawał także raczej przesadnie starannej opieki (jego
+                  złamany nos nie zwrócił niczyjej uwagi i&nbsp;zrósł się
+                  krzywo) [4]. Ojciec nie okazywał dzieciom swoich uczuć, był
+                  surowy i&nbsp;pozbawiony akceptacji dla artystycznej pasji
+                  syna.
                   <br />
                   <br />
                   Od 1847 r. Jan Matejko uczęszczał do szkoły św. Barbary.
                   Wkrótce został przeniesiony do Gimnazjum św. Anny (obecnie I
-                  Liceum Ogólnokształcące im. Bartłomieja Nowodworskiego w
-                  Krakowie). Mimo zdradzanych od najmłodszych lat niepospolitych
-                  zdolności plastycznych, z pozostałymi dziedzinami radził sobie
-                  z ogromnym trudem. Także koledzy nie byli dla niego
-                  wyrozumiali i, jak pisał Marian Gorzkowski, doświadczał od
-                  swych współtowarzyszy pewnego znęcania się nawet [5]. Choć
-                  Matejko i jego rodzeństwo z pochodzenia w połowie byli
-                  Czechami, czuli się polskimi patriotami, o czym świadczy
-                  działalność wyzwoleńcza dwóch starszych braci Jana, Edmunda i
-                  Zygmunta, uczestników powstania węgierskiego (1848–1849).
+                  Liceum Ogólnokształcące im. Bartłomieja Nowodworskiego
+                  w&nbsp;Krakowie). Mimo zdradzanych od najmłodszych lat
+                  niepospolitych zdolności plastycznych, z&nbsp;pozostałymi
+                  dziedzinami radził sobie z&nbsp;ogromnym trudem. Także koledzy
+                  nie byli dla niego wyrozumiali i, jak pisał Marian Gorzkowski,
+                  doświadczał od swych współtowarzyszy pewnego znęcania się
+                  nawet [5]. Choć Matejko i&nbsp;jego rodzeństwo
+                  z&nbsp;pochodzenia w&nbsp;połowie byli Czechami, czuli się
+                  polskimi patriotami, o&nbsp;czym świadczy działalność
+                  wyzwoleńcza dwóch starszych braci Jana, Edmunda
+                  i&nbsp;Zygmunta, uczestników powstania węgierskiego
+                  (1848–1849).
                 </PText>
                 <br />
                 <PText>
@@ -213,69 +218,73 @@ export default function Zyciorys() {
                   Matejko o sobie
                 </h2>
                 <p style={{ fontSize: "1.5rem", color: "var(--gray-2)" }}>
-                  W domu naszym zawsze było tłoczno i gwarno – miałem bowiem aż
-                  ośmiu braci i dwie siostry! Wychowywałem się więc w rodzinie
-                  licznej, doświadczonej wieloma troskami, ale też pełnej
-                  miłości i wzajemnego zrozumienia, co zawdzięczaliśmy w dużej
-                  mierze naszej Matce. Ojciec był wprawdzie człowiekiem surowym,
-                  nie okazującym nam ciepła, ale za to bardzo dbającym o nasze
-                  materialne potrzeby – całymi dniami udzielał lekcji muzyki, by
-                  zarobić na utrzymanie naszej gromadki. Nas też uczył gry na
-                  fortepianie – ja sam nie lubiłem tych lekcji, choć dźwięki
-                  były dla mnie ważne. Szczególnie podobało mi się jak z
-                  Wawelskiego Wzgórza rozbrzmiewał Dzwon Zygmunta – słuchałem go
-                  wtedy z wielką uwagą.
+                  W domu naszym zawsze było tłoczno i&nbsp;gwarno – miałem
+                  bowiem aż&nbsp;ośmiu braci i&nbsp;dwie siostry! Wychowywałem
+                  się więc w&nbsp;rodzinie licznej, doświadczonej wieloma
+                  troskami, ale też pełnej miłości i&nbsp;wzajemnego
+                  zrozumienia, co zawdzięczaliśmy w&nbsp;dużej mierze naszej
+                  Matce. Ojciec był wprawdzie człowiekiem surowym, nie
+                  okazującym nam ciepła, ale za&nbsp;to bardzo dbającym
+                  o&nbsp;nasze materialne potrzeby – całymi dniami udzielał
+                  lekcji muzyki, by zarobić na utrzymanie naszej gromadki. Nas
+                  też uczył gry na fortepianie – ja sam nie lubiłem tych lekcji,
+                  choć dźwięki były dla mnie ważne. Szczególnie podobało mi się
+                  jak z&nbsp;Wawelskiego Wzgórza rozbrzmiewał Dzwon Zygmunta –
+                  słuchałem go wtedy z wielką uwagą.
                 </p>
                 <br />
                 <p style={{ fontSize: "1.5rem", color: "var(--gray-2)" }}>
                   Jednakże, moje szczęśliwe dzieciństwo szybko się skończyło.
                   Gdy miałem siedem lat moja Matka odeszła na zawsze. Ojciec nie
-                  mógł pogodzić się z jej śmiercią i pracował jeszcze więcej, a
-                  nasze wychowanie powierzył siostrze naszej nieodżałowanej Mamy
-                  – Katarzynie Rossberg-Zamojskiej. Ciotka była dla nas dobra i
-                  bardzo o nas dbała, ale nie zawsze potrafiła nam okazać tyle
-                  serca i ciepła co Mama, za którą bardzo mi było tęskno.
+                  mógł pogodzić się z&nbsp;jej śmiercią i&nbsp;pracował jeszcze
+                  więcej, a&nbsp;nasze wychowanie powierzył siostrze naszej
+                  nieodżałowanej Mamy – Katarzynie Rossberg-Zamojskiej. Ciotka
+                  była dla nas dobra i&nbsp;bardzo o&nbsp;nas dbała, ale nie
+                  zawsze potrafiła nam okazać tyle serca i&nbsp;ciepła co Mama,
+                  za którą bardzo mi było tęskno.
                 </p>
                 <br />
                 <p style={{ fontSize: "1.5rem", color: "var(--gray-2)" }}>
-                  Odkąd nauczyłem się czytać, odkryłem jedną z największych
-                  swoich pasji – historię. Moimi ulubionymi książkami były
-                  opowieści historyczne – niemal na pamięć znałem całe ustępy ze
-                  Śpiewów historycznych Juliana Ursyna Niemcewicza. Jako dziecko
-                  potrafiłem też cytować różne fragmenty z Don Kichota
-                  Cervantesa. Wiem, że dobór lektur może się wydawać dość
-                  dziwny, ale byłem nietypowym dzieckiem – nad wiek poważnym,
-                  lubiącym samotność i ciszę. Potrafiłem godzinami bawić się
-                  sam, przebierając się i odgrywając różne scenki z dawnych
-                  dziejów.
+                  Odkąd nauczyłem się czytać, odkryłem jedną z&nbsp;
+                  największych swoich pasji – historię. Moimi ulubionymi
+                  książkami były opowieści historyczne – niemal na pamięć znałem
+                  całe ustępy ze Śpiewów historycznych Juliana Ursyna
+                  Niemcewicza. Jako dziecko potrafiłem też cytować różne
+                  fragmenty z&nbsp;Don Kichota Cervantesa. Wiem, że&nbsp;dobór
+                  lektur może się wydawać dość dziwny, ale byłem nietypowym
+                  dzieckiem – nad wiek poważnym, lubiącym samotność
+                  i&nbsp;ciszę. Potrafiłem godzinami bawić się sam, przebierając
+                  się i&nbsp;odgrywając różne scenki z&nbsp;dawnych dziejów.
                 </p>
                 <br />
                 <p style={{ fontSize: "1.5rem", color: "var(--gray-2)" }}>
-                  Od najmłodszych lat samodzielnie rysowałem i wycinałem z
-                  tektury figurki wojów i rycerzy, by następnie prowadzić ich do
-                  wielkich i zwycięskich bitew. Jak wspomniałem nie lubiłem
-                  tłumów, ale za to chętnie uczestniczyłem w różnych
-                  nabożeństwach religijnych, na które prowadzali nas rodzice.
-                  Moja wrodzona niechęć do tłumnych, hałaśliwych spotkań oraz
-                  oficjalnych uroczystości cechowała mnie również, gdy byłem już
-                  dorosłym człowiekiem i właściwie pozostała mi do dziś.
+                  Od najmłodszych lat samodzielnie rysowałem i&nbsp;wycinałem
+                  z&nbsp;tektury figurki wojów i&nbsp;rycerzy, by następnie
+                  prowadzić ich do wielkich i&nbsp;zwycięskich bitew. Jak
+                  wspomniałem nie lubiłem tłumów, ale za&nbsp;to chętnie
+                  uczestniczyłem w&nbsp;różnych nabożeństwach religijnych, na
+                  które prowadzali nas rodzice. Moja wrodzona niechęć do
+                  tłumnych, hałaśliwych spotkań oraz&nbsp;oficjalnych
+                  uroczystości cechowała mnie również, gdy byłem już dorosłym
+                  człowiekiem i&nbsp;właściwie pozostała mi do dziś.
                 </p>
                 <br />
                 <p style={{ fontSize: "1.5rem", color: "var(--gray-2)" }}>
-                  Może dla wielu zaskakującym będzie fakt, że jako dziecko
-                  chętnie bawiłem się w odprawianie Mszy Świętej. Byłem w tym
-                  tak wiarygodny, że mój ojciec uważał, iż w przyszłości
-                  powinienem zostać księdzem. Uważał mnie za chłopca życiowo
-                  nieporadnego i duchowny stan wydawał mu się rozwiązaniem dla
-                  mnie bezpiecznym.
+                  Może dla wielu zaskakującym będzie fakt, że&nbsp;jako dziecko
+                  chętnie bawiłem się w&nbsp;odprawianie Mszy Świętej. Byłem
+                  w&nbsp;tym tak wiarygodny, że&nbsp;mój ojciec uważał,
+                  iż&nbsp;w&nbsp;przyszłości powinienem zostać księdzem. Uważał
+                  mnie za&nbsp;chłopca życiowo nieporadnego i&nbsp;duchowny stan
+                  wydawał mu się rozwiązaniem dla mnie bezpiecznym.
                 </p>
                 <br />
                 <p style={{ fontSize: "1.5rem", color: "var(--gray-2)" }}>
-                  Tylko mama, ta dobra i mądra istota, wiedziała, że ja miałem
-                  inne rojenia w głowie – moim największym marzeniem było
-                  malowanie. To właśnie ona zachęcała mnie do rysowania i
-                  chwaliła wszystko, co utrwalałem na papierze – od sprzętów
-                  domowych, po podobizny ludzi i zwierząt.
+                  Tylko mama, ta dobra i&nbsp;mądra istota, wiedziała,
+                  że&nbsp;ja miałem inne rojenia w&nbsp;głowie – moim
+                  największym marzeniem było malowanie. To właśnie ona zachęcała
+                  mnie do&nbsp;rysowania i&nbsp;chwaliła wszystko, co utrwalałem
+                  na papierze – od sprzętów domowych, po podobizny ludzi
+                  i&nbsp;zwierząt.
                 </p>
                 <br />
                 <p
@@ -310,17 +319,18 @@ export default function Zyciorys() {
                 <img src={AboutImg1} alt="rodzeństwo" />
               </div>
               <p className="par">
-                Portret Franciszka Matejki z dziećmi (u dołu Kazimierz, wyżej
-                Jan i Marianna), 1853/54, obraz ze zbiorów Muzeum Narodowego we
-                Wrocławiu w depozycie Domu Matejki.
+                Portret Franciszka Matejki z&nbsp;dziećmi (u&nbsp;dołu
+                Kazimierz, wyżej Jan i&nbsp;Marianna), 1853/54, obraz
+                ze&nbsp;zbiorów Muzeum Narodowego we&nbsp;Wrocławiu
+                w&nbsp;depozycie Domu Matejki.
               </p>
               <br /> <br />
               <div>
                 <img src={AboutImg} alt="Jan" />
               </div>
               <p className="par">
-                Jan Matejko. Reprodukcja fotografii wykonanej w 1862 roku w
-                zakładzie fotograficznym Sebald z Krakowa.
+                Jan Matejko. Reprodukcja fotografii wykonanej w&nbsp;1862 roku
+                w&nbsp;zakładzie fotograficznym Sebald z&nbsp;Krakowa.
               </p>
               <p className="par">
                 <i>https://niezlasztuka.net/artysta/jan-matejko</i>

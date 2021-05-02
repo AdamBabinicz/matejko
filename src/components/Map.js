@@ -49,7 +49,9 @@ export default function Map() {
       <div className="container">
         <div className="map__card">
           <h3 className="map__card__heading">Jan Matejko</h3>
-          <PText>Jeden z najwybitniejszych polskich malarzy w historii</PText>
+          <PText>
+            Jeden z&nbsp;najwybitniejszych polskich malarzy w&nbsp;historii
+          </PText>
           <a
             className="map__card__link"
             href="https://goo.gl/maps/ET4eCYUCYQqTooCB8"

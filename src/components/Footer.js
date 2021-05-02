@@ -59,7 +59,7 @@ export default function Footer() {
           <h1 className="footer__col1__title">Jan Matejko</h1>
           <PText>
             Jan miał 26 lat, gdy odniósł ogromny sukces dzięki "Kazaniu Skargi".
-            Dochód ze wstępu na wystawę oddał na sieroty.
+            Dochód ze&nbsp;wstępu na&nbsp;wystawę oddał na&nbsp;sieroty.
           </PText>
         </div>
         <div className="footer__col2">

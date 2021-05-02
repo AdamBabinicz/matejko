@@ -108,13 +108,14 @@ export default function AboutSection() {
             heading="Dzieci"
           />
           <PText>
-            Gdy Matejko został nagrodzony medalem, uradowana Teodora pisała w
-            liście: „Jasiek jest medalowany, chłopiec ciaciany”. Jeszcze w tym
-            samym roku (1864) Matejków spotkało kolejne szczęście – urodził się
-            ich pierwszy syn Tadeusz. Później przyszła pora na dwie córki:
-            Helenę urodzoną w roku 1867 i dwa lata młodszą od niej Beatę.
-            Najmłodszy Jerzy, zwany Iziem, przyszedł na świat w 1873 roku. Był
-            to czas, kiedy Matejko z wielką czułością szkicował żonę.
+            Gdy Matejko został nagrodzony medalem, uradowana Teodora pisała
+            w&nbsp;liście: „Jasiek jest medalowany, chłopiec ciaciany”. Jeszcze
+            w&nbsp;tym samym roku (1864) Matejków spotkało kolejne szczęście –
+            urodził się ich pierwszy syn Tadeusz. Później przyszła pora
+            na&nbsp;dwie córki: Helenę urodzoną w&nbsp;roku 1867 i&nbsp;dwa lata
+            młodszą od&nbsp;niej Beatę. Najmłodszy Jerzy, zwany Iziem, przyszedł
+            na&nbsp;świat w&nbsp;1873 roku. Był to czas, kiedy Matejko
+            z&nbsp;wielką czułością szkicował żonę.
           </PText>
           <div className="aboutSection__buttons">
             <Button btnText="Malarstwo" btnLink="/malarstwo" />
